@@ -7,6 +7,7 @@
 
 An automated pipeline for generating infinite logic puzzles with controllable difficulty and perturbation levels. Generates LLM-friendly question/answer pairs with verified solutions.
 
+<img src="logo.png" alt="Logo" width="256" height="256">
 
 ## Features ✨
 
